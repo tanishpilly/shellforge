@@ -1,0 +1,14 @@
+# Binaries
+shellforge
+
+# Object files
+*.o
+src/*.o
+tests/*.o
+
+# Test output / temporary files
+*.tmp
+*.log
+output.txt
+errors.txt
+test.txt
